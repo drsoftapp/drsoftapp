@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Stats
+### Stats  👋
 
 
 Account age: **{{ ACCOUNT_AGE }}** years
