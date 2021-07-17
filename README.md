@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Blockchain
 - 🤔 I’m looking for help with all Blockchain
 - 💬 Contact me: telegram: @DrSoftApp
-
+- 🔭 I’m the Smart Contract security auditor at [UFIN](http://ufin.uk)!
 <!--
 **drsoftapp/drsoftapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
